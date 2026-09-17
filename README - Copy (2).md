@@ -1,2 +1,0 @@
-# verbose-waddle
-hello daniel
